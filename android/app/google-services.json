@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715322548323",
+    "project_id": "delievry-d2922",
+    "storage_bucket": "delievry-d2922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715322548323:android:c3293cc06ba293a4d89856",
+        "android_client_info": {
+          "package_name": "com.online.delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715322548323-2rs3ev4eloecbps889ts0f2tvd73ig67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEpbCWq-H1LpAaZESAfxWUxiV8QejucUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715322548323-2rs3ev4eloecbps889ts0f2tvd73ig67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
